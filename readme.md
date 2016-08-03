@@ -3,4 +3,4 @@
 
 Data scraped from [headcount.org](https://www.headcount.org/deadlines-dates/?section=fed) using [x-ray](https://github.com/lapwinglabs/x-ray).
 
-Schema loosely based on 18F's [JSON Schema for Calendars](https://github.com/18F/vote-gov/wiki/JSON-Schema-for-Calendars)
+Schema loosely based on 18F's [JSON Schema for Calendars](https://github.com/18F/vote-gov/wiki/JSON-Schema-for-Calendars).
