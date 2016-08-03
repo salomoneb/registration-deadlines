@@ -1,0 +1,358 @@
+[
+  {
+    "state_abbreviation": "al",
+    "slug": "alabama",
+    "title": "Alabama",
+    "date": "10-24-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ak",
+    "slug": "alaska",
+    "title": "Alaska",
+    "date": "10-9-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "az",
+    "slug": "arizona",
+    "title": "Arizona",
+    "date": "10-10-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ar",
+    "slug": "arkansas",
+    "title": "Arkansas",
+    "date": "10-10-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ca",
+    "slug": "california",
+    "title": "California",
+    "date": "10-24-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "co",
+    "slug": "colorado",
+    "title": "Colorado",
+    "date": "10-17-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "ct",
+    "slug": "connecticut",
+    "title": "Connecticut",
+    "date": "11-1-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "de",
+    "slug": "delaware",
+    "title": "Delaware",
+    "date": "10-15-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "dc",
+    "slug": "district-of-columbia",
+    "title": "District of Columbia",
+    "date": "10-11-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "fl",
+    "slug": "florida",
+    "title": "Florida",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ga",
+    "slug": "georgia",
+    "title": "Georgia",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "hi",
+    "slug": "hawaii",
+    "title": "Hawaii",
+    "date": "10-10-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "id",
+    "slug": "idaho",
+    "title": "Idaho",
+    "date": "10-14-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "il",
+    "slug": "illinois",
+    "title": "Illinois",
+    "date": "10-11-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "in",
+    "slug": "indiana",
+    "title": "Indiana",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ia",
+    "slug": "iowa",
+    "title": "Iowa",
+    "date": "10-29-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "ks",
+    "slug": "kansas",
+    "title": "Kansas",
+    "date": "10-14-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ky",
+    "slug": "kentucky",
+    "title": "Kentucky",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "la",
+    "slug": "louisiana",
+    "title": "Louisiana",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "me",
+    "slug": "maine",
+    "title": "Maine",
+    "date": "10-18-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "md",
+    "slug": "maryland",
+    "title": "Maryland",
+    "date": "10-18-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ma",
+    "slug": "massachusetts",
+    "title": "Massachusetts",
+    "date": "10-19-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "mi",
+    "slug": "michigan",
+    "title": "Michigan",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "mn",
+    "slug": "minnesota",
+    "title": "Minnesota",
+    "date": "10-18-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "ms",
+    "slug": "mississippi",
+    "title": "Mississippi",
+    "date": "10-8-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "mo",
+    "slug": "missouri",
+    "title": "Missouri",
+    "date": "10-12-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "mt",
+    "slug": "montana",
+    "title": "Montana",
+    "date": "10-11-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "ne",
+    "slug": "nebraska",
+    "title": "Nebraska",
+    "date": "10-21-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "nv",
+    "slug": "nevada",
+    "title": "Nevada",
+    "date": "10-8-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "nh",
+    "slug": "new-hampshire",
+    "title": "New Hampshire",
+    "date": "10-29-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "nj",
+    "slug": "new-jersey",
+    "title": "New Jersey",
+    "date": "10-18-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "nm",
+    "slug": "new-mexico",
+    "title": "New Mexico",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ny",
+    "slug": "new-york",
+    "title": "New York",
+    "date": "10-14-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "nc",
+    "slug": "north-carolina",
+    "title": "North Carolina",
+    "date": "10-14-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "nd",
+    "slug": "north-dakota",
+    "title": "North Dakota",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "oh",
+    "slug": "ohio",
+    "title": "Ohio",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ok",
+    "slug": "oklahoma",
+    "title": "Oklahoma",
+    "date": "10-14-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "or",
+    "slug": "oregon",
+    "title": "Oregon",
+    "date": "10-18-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "pa",
+    "slug": "pennsylvania",
+    "title": "Pennsylvania",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ri",
+    "slug": "rhode-island",
+    "title": "Rhode Island",
+    "date": "10-9-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "sc",
+    "slug": "south-carolina",
+    "title": "South Carolina",
+    "date": "10-8-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "sd",
+    "slug": "south-dakota",
+    "title": "South Dakota",
+    "date": "10-24-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "tn",
+    "slug": "tennessee",
+    "title": "Tennessee",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "tx",
+    "slug": "texas",
+    "title": "Texas",
+    "date": "10-11-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "ut",
+    "slug": "utah",
+    "title": "Utah",
+    "date": "10-11-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "vt",
+    "slug": "vermont",
+    "title": "Vermont",
+    "date": "11-2-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "va",
+    "slug": "virginia",
+    "title": "Virginia",
+    "date": "10-17-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "wa",
+    "slug": "washington",
+    "title": "Washington",
+    "date": "10-10-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "wv",
+    "slug": "west-virginia",
+    "title": "West Virginia",
+    "date": "10-18-2016",
+    "election_day_registration": "No"
+  },
+  {
+    "state_abbreviation": "wi",
+    "slug": "wisconsin",
+    "title": "Wisconsin",
+    "date": "10-19-2016",
+    "election_day_registration": "Yes"
+  },
+  {
+    "state_abbreviation": "wy",
+    "slug": "wyoming",
+    "title": "Wyoming",
+    "date": "10-24-2016",
+    "election_day_registration": "Yes"
+  }
+]
