@@ -20,7 +20,7 @@ xray("https://www.headcount.org/deadlines-dates/?section=fed", "#fed table.state
 	[{
 		state_abbreviation: "@data-state-abbr | lower_case",
 		slug: "td:nth-child(1) | trim | space_dash | lower_case",
-		title: "td:nth-child(1) | trim", 	
+		title: "td:nth-child(1) | trim", 
 		date: "td:nth-child(2) | slash_dash", 
 		date_type: "Mail-in Registration Deadline", 
 		election_day_registration: "td:nth-child(3)" 
